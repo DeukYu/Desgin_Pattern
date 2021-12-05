@@ -1,3 +1,2 @@
-﻿  SingleResponsibilityPrinciple.cpp
-C:\Users\LeeDeukYu\Desktop\github\Design_Pattern\Design_Pattern\SingleResponsibilityPrinciple.cpp(50,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+﻿  OpenClosedPrinciple.cpp
   Design_Pattern.vcxproj -> C:\Users\LeeDeukYu\Desktop\github\Design_Pattern\Debug\Design_Pattern.exe
